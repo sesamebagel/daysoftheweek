@@ -1,7 +1,7 @@
 package studentdatabase;
 
 public enum Days {
-   SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, PIDAY;
+   SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, PIDAY, TUEWEDNESDAY;
 
    @Override
    public String toString() {
